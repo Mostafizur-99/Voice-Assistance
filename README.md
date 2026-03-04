@@ -55,14 +55,3 @@ You should be able to replicate the project and customize it for your needs.
 * **Expand AI Capabilities:** Add more tools and commands for the assistant.
 * **Optimize Performance:** Fine-tune buffer sizes and network handling.
 
-# Feedback and Collaboration 🤝
-
-I'm really looking forward to hearing your thoughts on this project. Whether it's suggestions for improvements, ideas for new features, or any questions you might have—let's discuss!
-
-If anyone's interested in collaborating or contributing, feel free to fork the repository or reach out.
-
-**TL;DR:** I built a DIY real-time voice assistant using an ESP32, integrated with LangChain and OpenAI. It captures voice input, sends it to a Node.js server for AI processing, and plays back the response—all in real-time! Check out the [video ](https://www.youtube.com/watch?v=1H6FlWNRSYM)or the project on [GitHub ](https://github.com/FabrikappAgency/esp32-realtime-voice-assistant)and let me know what you think!
-
-**Cross-posting to:** r/esp32, r/LangChain, r/arduino 
-
-*Excited to hear your feedback!* 😊
