@@ -1,10 +1,9 @@
-
-# [DIY Project] Building a Real-Time AI Voice Assistant on an ESP32 with OpenAI and Langchain 🗣️🤖
+# Building a Real-Time AI Voice Assistant on an ESP32 with OpenAI and Langchain
 Hey everyone!
 
 I've been working on a super exciting project over the past couple of weeks and couldn't wait to share it with this community.
 
-I've built a real-time voice assistant using an ESP32 microcontroller, use as an I/O interface, integrated with a Node Server that uses **LangChain** and **OpenAI**. If you're into IoT, embedded systems, or AI, this might interest you.
+I've built a real-time voice assistant using an ESP32 microcontroller, use as an I/O interface, integrated with a Node Server that uses **LangChain** and **OpenAI**.
 
 **Overall Architecture:**
 
@@ -20,11 +19,6 @@ I've built a real-time voice assistant using an ESP32 microcontroller, use as an
 * To have a hands-on project that combines hardware and software development.
 * Because I thought it would be cool to talk to my own DIY AI assistant anytime by just pressing a button! Actually it is, the interaction is quite fluent, and it doesn't monopolize your computer or smartphone, like an app.
 
-**Can I see it in action ?**
-
-* Yes, you can check the 30-min long video here if you want to dive deeper and see how it works : [https://www.youtube.com/watch?v=1H6FlWNRSYM](https://www.youtube.com/watch?v=1H6FlWNRSYM)
-* Or if you're more a reading person, you can check out the [Part 1 : Hardware, PlatformIO and C++](https://dev.to/fabrikapp/i-created-a-realtime-voice-assistant-for-my-esp-32-here-is-my-journey-part-1-hardware-43de)
-* If you just want to skip to the OpenAI Realtime Integration with Langchain, check out [Part 2 : Node, OpenAI, LangChain](https://dev.to/fabrikapp/i-created-a-realtime-voice-assistant-for-my-esp-32-here-is-my-journey-part-2-node-openai-1og6)
 * And for course, have a look at the [code repository](https://github.com/FabrikappAgency/esp32-realtime-voice-assistant).
 
 # Project Highlights 
