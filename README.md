@@ -19,7 +19,7 @@ I've built a real-time voice assistant using an ESP32 microcontroller, use as an
 * To have a hands-on project that combines hardware and software development.
 * Because I thought it would be cool to talk to my own DIY AI assistant anytime by just pressing a button! Actually it is, the interaction is quite fluent, and it doesn't monopolize your computer or smartphone, like an app.
 
-* And for course, have a look at the [code repository](https://github.com/FabrikappAgency/esp32-realtime-voice-assistant).
+* And for course, have a look at the [code repository]([https://github.com/FabrikappAgency/esp32-realtime-voice-assistant](https://github.com/Mostafizur-99/Voice-Assistance/tree/main)).
 
 # Project Highlights 
 
