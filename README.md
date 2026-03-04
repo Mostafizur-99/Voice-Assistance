@@ -43,30 +43,9 @@ I've built a real-time voice assistant using an ESP32 microcontroller, use as an
 3. **AI Processing:** The server uses LangChain and OpenAI to transcribe and understand your speech, then generates a response.
 4. **Response Playback:** The audio response is sent back to the ESP32 and played through the speaker.
 
-# Challenges Faced (AKA Hair loss prevention)
 
-* **Buffer Management:** Ensuring smooth real-time audio streaming required efficient buffer handling on both ESP32 and server sides.
-* **WebSocket Communication:** Managing bi-directional streaming of audio data over WebSockets between the ESP32 and server.
-* **Audio Quality:** Dealt with audio artifacts and latency issues by optimizing sample rates and buffer sizes.
 
-# What If You Want to Build It At Home ? 
-
-I've documented the entire project in a two-part series, including all the code and detailed explanations:
-
-1. **Part 1 - Hardware and C++ Implementation:**
-   * Setting up the ESP32 with the microphone and speaker.
-   * Configuring the development environment with PlatformIO.
-   * Diving deep into buffer handling and speaker output.
-   * [Read Here](https://dev.to/fabrikapp/i-created-a-realtime-voice-assistant-for-my-esp-32-here-is-my-journey-part-1-hardware-43de)
-
-1. **Part 2 - Building the AI Backend:**
-   * Developing the Node.js server with TypeScript.
-   * Integrating LangChain for natural language processing.
-   * Connecting to OpenAI's APIs for AI-powered responses.
-   * Handling real-time audio streaming.
-   * [Read Here](https://dev.to/fabrikapp/i-created-a-realtime-voice-assistant-for-my-esp-32-here-is-my-journey-part-2-node-openai-1og6)
-
-**GitHub Repository:** [ESP32 Reatime Voice AI Assistant](https://github.com/FabrikappAgency/esp32-realtime-voice-assistant)
+**GitHub Repository:** [ESP32 Reatime Voice AI Assistant](https://github.com/Mostafizur-99/Voice-Assistance)
 
 You should be able to replicate the project and customize it for your needs.
 
